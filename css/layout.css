@@ -30,6 +30,6 @@
 }
 
 .brands {
-  float:left;
+  align-content: left
 }
 
