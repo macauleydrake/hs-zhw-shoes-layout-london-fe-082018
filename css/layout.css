@@ -28,6 +28,7 @@
 .column {
   column-count: 3;
   clear:both;
+  padding:5;
 }
 
 .column1 {
