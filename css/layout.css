@@ -35,6 +35,7 @@
 .brands {
   width:66%;
   float:left;
+  clear:auto;
 }
 .archive {
   width:33%;
