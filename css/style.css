@@ -17,6 +17,10 @@ img.verif_img {
 
 /********** Global **********/
 
+column1 {
+  column-count: 2;
+}
+
 body {
   background: url(../images/handmadepaper.png);
 }
