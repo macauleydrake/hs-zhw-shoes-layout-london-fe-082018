@@ -35,9 +35,11 @@
 .brands {
   width:66%;
   float:left;
+  padding:5;
 }
 .archive {
   width:33%;
   float: right;
+  padding:5;
 }
 
