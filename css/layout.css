@@ -38,6 +38,7 @@
   width:66%;
   float:left;
   padding:5;
+  clearfix:auto;
   
 }
 .archive {
