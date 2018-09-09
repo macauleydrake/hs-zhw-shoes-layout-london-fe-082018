@@ -29,6 +29,9 @@
   column-count: 3;
 }
 
+.column1 {
+  column-count: 2;
+}
 .brands {
   width:66%;
 }
