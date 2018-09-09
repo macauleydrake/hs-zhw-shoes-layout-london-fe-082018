@@ -27,10 +27,14 @@
 
 .column {
   column-count: 3;
+  clearfix: auto;
+  float: right;
+  clear: right;
 }
 
 .img-container {
     float: right;
     clear: right;
 }
+
 
