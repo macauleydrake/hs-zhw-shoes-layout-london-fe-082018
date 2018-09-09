@@ -27,6 +27,7 @@
 
 .column {
   column-count: 3;
+  clear:both;
 }
 
 .column1 {
