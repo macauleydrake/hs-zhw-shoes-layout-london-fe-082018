@@ -9,9 +9,10 @@
   -moz-box-sizing: border-box;
 }
 
-.clearfix:after {
+.clearfix:after
+{
   content: ".";
-  display: block;
+  display: table;
   clear: both;
   visibility: hidden;
   height: 0;
@@ -24,4 +25,27 @@
 
 /* Posititoning Classes */
 
+.column {
+  column-count: 3;
+  clear:both;
+  padding:5;
+}
+
+.column1 {
+  column-count: 1;
+}
+.brands {
+  width:66%;
+  float:left;
+  padding:5;
+
+  
+}
+.archive {
+ width:33%;
+  float:right;
+  padding:5;
+  
+  
+}
 
