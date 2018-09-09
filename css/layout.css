@@ -38,13 +38,14 @@
   width:66%;
   float:left;
   padding:5;
-  clearfix:auto;
+  overflow:auto;
   
 }
 .archive {
   width:33%;
   float: right;
   padding:5;
+  overflow:auto;
   
 }
 
