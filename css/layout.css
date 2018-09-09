@@ -31,7 +31,6 @@
 
 .img-container {
     float: right;
-    width: 50%;
-    padding: 5px;
+    clear: right;
 }
 
